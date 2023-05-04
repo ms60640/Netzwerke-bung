@@ -22,12 +22,12 @@ lm,el,1
 kd,el,1
 ab,ft,1
 ab,am,1
-ab,ag,1
+ab,agl,1
 ab,er,1
 ft,am,1
-ft,ag,1
+ft,agl,1
 ft,er,1
-am,ag,1
+am,agl,1
 am,er,1
 rh,lk,1
 rh,cm,1
@@ -36,7 +36,7 @@ rh,rk,1
 cm,kp,1
 cm,rk,1
 kp,rk,1
-clb,ag,1
+clb,agl,1
 clb,sb,1
 clb,ch,1
 clb,mw,1
